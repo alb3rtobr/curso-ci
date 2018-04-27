@@ -16,7 +16,7 @@ node {
 
       sh 'cd ejem1; ./build-image.sh'
 
-      sh 'cd ejem1; docker push micaelgallego/curso-ci-ejem1:latest'
+      sh 'cd ejem1; docker push alb3rtobr/curso-ci-ejem1:latest'
    }
 
   always {
