@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t micaelgallego/curso-ci-ejem1:latest .
+docker build -t alb3rtobr/curso-ci-ejem1:latest .
